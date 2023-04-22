@@ -1,1 +1,4 @@
-# This is a repo for our new GCP DevOps Project.
+# Docker flask application
+
+- This applicatiom is written in python
+- It will be deployed in GKW
