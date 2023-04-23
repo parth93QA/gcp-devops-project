@@ -4,6 +4,7 @@ steps:
   # images:
   #   - "gcr.io/$PROJECT_ID/gcpdevops"
 
+  #push image to registry
   - name: "gcr.io/cloud-builders/docker"
     args: ["push", "gcr.io/$PROJECT_ID/gcpdevops"]
 
